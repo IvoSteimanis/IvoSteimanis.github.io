@@ -5,7 +5,7 @@
     <link>https://ivosteimanis.github.io/categories/</link>
       <atom:link href="https://ivosteimanis.github.io/categories/index.xml" rel="self" type="application/rss+xml" />
     <description>Categories</description>
-    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><copyright>© Ivo Steimanis 2019</copyright><lastBuildDate>Wed, 06 Nov 2019 12:55:20 +0100</lastBuildDate>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><copyright>© Ivo Steimanis 2020</copyright><lastBuildDate>Fri, 19 Jun 2020 12:06:38 +0100</lastBuildDate>
     <image>
       <url>https://ivosteimanis.github.io/img/ivo.jpg</url>
       <title>Categories</title>
@@ -13,34 +13,34 @@
     </image>
     
     <item>
-      <title>Blog Post</title>
-      <link>https://ivosteimanis.github.io/categories/blog-post/</link>
-      <pubDate>Wed, 06 Nov 2019 12:55:20 +0100</pubDate>
-      <guid>https://ivosteimanis.github.io/categories/blog-post/</guid>
+      <title>Project</title>
+      <link>https://ivosteimanis.github.io/categories/project/</link>
+      <pubDate>Fri, 19 Jun 2020 12:06:38 +0100</pubDate>
+      <guid>https://ivosteimanis.github.io/categories/project/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Working Paper</title>
       <link>https://ivosteimanis.github.io/categories/working-paper/</link>
-      <pubDate>Wed, 06 Nov 2019 12:39:29 +0100</pubDate>
+      <pubDate>Fri, 19 Jun 2020 00:00:00 +0000</pubDate>
       <guid>https://ivosteimanis.github.io/categories/working-paper/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>Project</title>
-      <link>https://ivosteimanis.github.io/categories/project/</link>
-      <pubDate>Wed, 06 Nov 2019 12:15:59 +0100</pubDate>
-      <guid>https://ivosteimanis.github.io/categories/project/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Journal Article</title>
       <link>https://ivosteimanis.github.io/categories/journal-article/</link>
-      <pubDate>Fri, 01 Dec 2017 00:00:00 +0000</pubDate>
+      <pubDate>Wed, 01 Apr 2020 00:00:00 +0000</pubDate>
       <guid>https://ivosteimanis.github.io/categories/journal-article/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Blog Post</title>
+      <link>https://ivosteimanis.github.io/categories/blog-post/</link>
+      <pubDate>Wed, 06 Nov 2019 12:55:20 +0100</pubDate>
+      <guid>https://ivosteimanis.github.io/categories/blog-post/</guid>
       <description></description>
     </item>
     
