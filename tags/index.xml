@@ -5,12 +5,52 @@
     <link>https://ivosteimanis.github.io/tags/</link>
       <atom:link href="https://ivosteimanis.github.io/tags/index.xml" rel="self" type="application/rss+xml" />
     <description>Tags</description>
-    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><copyright>© Ivo Steimanis 2020</copyright><lastBuildDate>Fri, 19 Jun 2020 12:06:38 +0100</lastBuildDate>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><copyright>© Ivo Steimanis 2020</copyright><lastBuildDate>Mon, 29 Jun 2020 00:00:00 +0000</lastBuildDate>
     <image>
       <url>https://ivosteimanis.github.io/img/ivo.jpg</url>
       <title>Tags</title>
       <link>https://ivosteimanis.github.io/tags/</link>
     </image>
+    
+    <item>
+      <title>climate change</title>
+      <link>https://ivosteimanis.github.io/tags/climate-change/</link>
+      <pubDate>Mon, 29 Jun 2020 00:00:00 +0000</pubDate>
+      <guid>https://ivosteimanis.github.io/tags/climate-change/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>environmental migration</title>
+      <link>https://ivosteimanis.github.io/tags/environmental-migration/</link>
+      <pubDate>Mon, 29 Jun 2020 00:00:00 +0000</pubDate>
+      <guid>https://ivosteimanis.github.io/tags/environmental-migration/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>helping behavior</title>
+      <link>https://ivosteimanis.github.io/tags/helping-behavior/</link>
+      <pubDate>Mon, 29 Jun 2020 00:00:00 +0000</pubDate>
+      <guid>https://ivosteimanis.github.io/tags/helping-behavior/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>immigration acceptance</title>
+      <link>https://ivosteimanis.github.io/tags/immigration-acceptance/</link>
+      <pubDate>Mon, 29 Jun 2020 00:00:00 +0000</pubDate>
+      <guid>https://ivosteimanis.github.io/tags/immigration-acceptance/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>survey experiment</title>
+      <link>https://ivosteimanis.github.io/tags/survey-experiment/</link>
+      <pubDate>Mon, 29 Jun 2020 00:00:00 +0000</pubDate>
+      <guid>https://ivosteimanis.github.io/tags/survey-experiment/</guid>
+      <description></description>
+    </item>
     
     <item>
       <title>agroforestry</title>
@@ -65,14 +105,6 @@
       <link>https://ivosteimanis.github.io/tags/remote-sensing/</link>
       <pubDate>Fri, 19 Jun 2020 12:06:38 +0100</pubDate>
       <guid>https://ivosteimanis.github.io/tags/remote-sensing/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>climate change</title>
-      <link>https://ivosteimanis.github.io/tags/climate-change/</link>
-      <pubDate>Fri, 19 Jun 2020 00:00:00 +0000</pubDate>
-      <guid>https://ivosteimanis.github.io/tags/climate-change/</guid>
       <description></description>
     </item>
     
